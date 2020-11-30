@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "aliyun",
+      "type": "com.wangjun.config.AliyunOssConfig",
+      "sourceType": "com.wangjun.config.AliyunOssConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.wangjun.config.AliyunOssConfig"
+    },
+    {
+      "name": "aliyun.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.wangjun.config.AliyunOssConfig"
+    },
+    {
+      "name": "aliyun.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.wangjun.config.AliyunOssConfig"
+    },
+    {
+      "name": "aliyun.end-point",
+      "type": "java.lang.String",
+      "sourceType": "com.wangjun.config.AliyunOssConfig"
+    },
+    {
+      "name": "aliyun.file-host",
+      "type": "java.lang.String",
+      "sourceType": "com.wangjun.config.AliyunOssConfig"
+    }
+  ],
+  "hints": []
+}
